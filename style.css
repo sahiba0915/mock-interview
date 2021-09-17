@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+body {
+    font-family: 'Merienda', cursive;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.heading {
+    margin-top: 10rem;
+    font-size: 4rem;
+}
+
+button {
+    width: 40%;
+    padding: 0.7rem;
+    background-color: aquamarine;
+    border-radius: 2.5rem;
+    font-weight: bold;
+}
+
+#btn1 {
+    margin-right: 1rem;
+}
+
+#btn2 {
+    margin-left: 1rem;
+}
+
+label {
+    font-size: 2rem;
+    color: red;
+    font-weight: bold;
+}
+
